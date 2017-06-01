@@ -1,0 +1,1 @@
+All images are transferred from the uploads directory to the public directory
